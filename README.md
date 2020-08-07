@@ -6,3 +6,11 @@
   You can find me at: dr.marufahmed89@gmail.com.
   Visit my website to find more about me: www.marufahmed.carrd.co.
 </pre>
+
+<p align="center"> 
+  <img src="https://github-readme-stats.vercel.app/api?username=maruf-ahmed-bhuiyan&show_icons=true" alt="maruf-ahmed-bhuiyan" /> 
+</p>
+
+<p align=center>                           
+  <img align=center  src="https://visitor-badge.laobi.icu/badge?page_id=maruf-ahmed-bhuiyan" alt="Visitors">                     
+</p>
