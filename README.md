@@ -8,7 +8,6 @@
 </p>
 
 <p align="center">
-<img align=center src="https://visitor-badge.laobi.icu/badge?page_id=maruf-ahmed-bhuiyan" alt="Visitors">
 <a href="mailto:dr.marufahmed89@gmail.com"><img src="https://img.shields.io/badge/Email%3A-dr.marufahmed89%40gmail.com-blue" </a>
 <a href="www.marufahmed.carrd.co"><img src="https://img.shields.io/badge/Visit%20at%3A-www.marufahmed.carrd.co-orange"/></a>
 </p> 
