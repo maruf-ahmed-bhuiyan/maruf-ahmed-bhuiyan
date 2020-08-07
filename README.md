@@ -1,16 +1,16 @@
-### Hi there 👋
+### Hi 👋
 
-<!--
-**maruf-ahmed-bhuiyan/maruf-ahmed-bhuiyan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+```R
+Maruf_Ahmed_Bhuiyan <- function(Contact) {
+  print('Hi, I am Maruf Ahmed Bhiuyan')
+  print('I am a passionate about learning. I love all things science.')
+  print('I am  a doctor with a thing for coding')
+  Currently_Working_On <- 'Genomics, Vaccinomics, Computer Aided Drug Design, Machine Learning, Virology'
+  Reach_Me_At <- 'dr.marufahmed89@gmail.com'
+  My_Website <- 'www.marufahmed.carrd.co'
+}
+```
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align=center>                           
+  <img align=center  src="https://visitor-badge.laobi.icu/badge?page_id=maruf-ahmed-bhuiyan" alt="Visitors">                     
+</p>
