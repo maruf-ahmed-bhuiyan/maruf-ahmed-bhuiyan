@@ -22,7 +22,6 @@
 <h3 align="center">Connect with me:</h3>
 <p align="center">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/maruf-ahmed-bhuiyan/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="https://www.linkedin.com/in/maruf-ahmed-bhuiyan/" height="30" width="40" /></a>
-<a href="https://fb.com/maruf ahmed" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="maruf ahmed" height="30" width="40" /></a>
 <a href="https://medium.com/@dr.marufahmed" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@dr.marufahmed" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/@dr_maruf" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="@dr_maruf" height="30" width="40" /></a>
 </p>
