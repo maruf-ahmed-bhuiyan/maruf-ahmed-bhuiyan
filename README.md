@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Maruf Ahmed Bhuiyan</h1>
 <h3 align="center">On the hunt to acquire new skills</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=maruf-ahmed-bhuiyan&label=Profile%20views&color=0e75b6&style=flat" alt="maruf-ahmed-bhuiyan" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=maruf-ahmed-bhuiyan&label=Profile%20views&color=0e75b6&style=flat" alt="maruf-ahmed-bhuiyan" /> </p>
 
 - 🔭 I’m currently working on **genomics, vaccinomics, computer aided drug design, machine learning and interactomics.**
 
