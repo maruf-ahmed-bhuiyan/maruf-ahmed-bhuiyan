@@ -1,10 +1,8 @@
 
 <h1 align="center">Hi 👋, I'm Maruf Ahmed Bhuiyan</h1>
-<h3 align="center">On the hunt to acquire new skills</h3>
+<h3 align="center">I am a physician with vested interest in genomics, vaccinomics, computer aided drug design, machine learning and interactomics.</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=maruf-ahmed-bhuiyan&label=Profile%20views&color=0e75b6&style=flat" alt="maruf-ahmed-bhuiyan" /> </p>
-
-- 🔭 I’m currently working on **genomics, vaccinomics, computer aided drug design, machine learning and interactomics.**
 
 - 🌱 I’m currently learning **Machine learning, Drug design, Programming.**
 
