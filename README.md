@@ -6,7 +6,6 @@
   - #### I am looking for collaboration in research.
   - #### Visit my website for more information: www.marufahmed.carrd.co
   - #### Feel free to email me at: dr.marufahmed89@gamil.com
-![footer image](https://github.com/maruf-ahmed-bhuiyan/maruf-ahmed-bhuiyan/blob/master/footer.png)
 
 <h1 align="center">Hi 👋, I'm Maruf Ahmed Bhuiyan</h1>
 <h3 align="center">On the hunt to acquire new skills</h3>
@@ -32,6 +31,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/maruf-ahmed-bhuiyan/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="https://www.linkedin.com/in/maruf-ahmed-bhuiyan/" height="30" width="40" /></a>
+<a href="https://fb.com/maruf ahmed" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="maruf ahmed" height="30" width="40" /></a>
 <a href="https://medium.com/@dr.marufahmed" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@dr.marufahmed" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/@dr_maruf" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="@dr_maruf" height="30" width="40" /></a>
 </p>
@@ -42,3 +42,5 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=maruf-ahmed-bhuiyan&show_icons=true&locale=en&layout=compact" alt="maruf-ahmed-bhuiyan" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=maruf-ahmed-bhuiyan&show_icons=true&locale=en" alt="maruf-ahmed-bhuiyan" /></p>
+
+![footer image](https://github.com/maruf-ahmed-bhuiyan/maruf-ahmed-bhuiyan/blob/master/footer.png)
