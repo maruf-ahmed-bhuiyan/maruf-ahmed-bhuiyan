@@ -1,11 +1,3 @@
-<h1 align= "center"> Hello, I am Maruf Ahmed Bhuiyan </h1>
-
-### About Me
-  - #### I am a physician with a vested interest in programming, bioinformatics and biotechnolgy. 
-  - #### I am currently working on genomics, vaccinomics, computer aided drug design,  machine learning and interactomics. 
-  - #### I am looking for collaboration in research.
-  - #### Visit my website for more information: www.marufahmed.carrd.co
-  - #### Feel free to email me at: dr.marufahmed89@gamil.com
 
 <h1 align="center">Hi 👋, I'm Maruf Ahmed Bhuiyan</h1>
 <h3 align="center">On the hunt to acquire new skills</h3>
