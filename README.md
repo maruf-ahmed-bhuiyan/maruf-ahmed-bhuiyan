@@ -32,7 +32,4 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=maruf-ahmed-bhuiyan&show_icons=true&locale=en&layout=compact" alt="maruf-ahmed-bhuiyan" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=maruf-ahmed-bhuiyan&show_icons=true&locale=en" alt="maruf-ahmed-bhuiyan" /></p>
-</p>
-
 ![footer image](https://github.com/maruf-ahmed-bhuiyan/maruf-ahmed-bhuiyan/blob/master/footer.png)
